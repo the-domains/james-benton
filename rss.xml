@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[James Benton]]></title>
         <description><![CDATA[James Benton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/james-benton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 18:59:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 19:01:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/james-benton/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ef48cf4-8c4d-4ac6-a017-6833606f31ee.png">]]></description>
-            <link>undefinedjames-benton-to-release-his-first-solo-ep/index.html</link>
+            <link>https://thegrid.ai/james-benton/james-benton-to-release-his-first-solo-ep/index.html</link>
             <guid isPermaLink="false">20fe9c40-47c8-4d2b-bf93-bb7d13dc9867</guid>
-            <pubDate>Sun, 29 May 2016 18:59:21 GMT</pubDate>
+            <pubDate>Sun, 29 May 2016 19:01:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
