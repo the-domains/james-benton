@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'James Benton to release his first solo EP '
-datePublished: '2016-05-29T18:59:21.333Z'
-dateModified: '2016-05-29T18:58:50.783Z'
+datePublished: '2016-05-29T19:01:22.232Z'
+dateModified: '2016-05-29T19:00:41.337Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-29-james-benton-to-release-his-first-solo-ep.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-29-james-benton-to-release-his-first-solo-ep.md
+starred: true
 url: james-benton-to-release-his-first-solo-ep/index.html
 _type: Article
 
